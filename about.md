@@ -13,11 +13,11 @@ Working on action recognition in multi-modal data using machine learning and com
 
 ### Contact me
 
-[gmail](mailto:mbs.techy@gmail.com) - personal
-[ieee](mailto:mbshaikh@ieee.org)
-[ECU Student](mailto:mbshaikh@our.ecu.edu.au)
-[ECU Staff](mailto:m.shaikh@ecu.edu.au)
-[FAST](mailto:k070381@nu.edu.pk) -inactive
-[Sukkur IBA University](mailto:mbilal.shaikh@siba.edu.pk) -inactive
-[University of Sindh](mailto:mbilalshaikh@usindh.edu.pk)
-[TRG](mbshaikh@trgtech.com) -inactive
+[gmail](mailto:mbs.techy@gmail.com) - personal   
+[ieee](mailto:mbshaikh@ieee.org)   
+[ECU Student](mailto:mbshaikh@our.ecu.edu.au)   
+[ECU Staff](mailto:m.shaikh@ecu.edu.au)   
+[FAST](mailto:k070381@nu.edu.pk) -inactive   
+[Sukkur IBA University](mailto:mbilal.shaikh@siba.edu.pk) -inactive   
+[University of Sindh](mailto:mbilalshaikh@usindh.edu.pk)   
+[TRG](mbshaikh@trgtech.com) -inactive   
