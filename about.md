@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am currently based in Perth, WA, Australia.
+I am currently based in Perth, WA, Australia. I have my roots from Shahdadpur (a small town in Sindh province of Pakistan).
 
 ### More Information
 
