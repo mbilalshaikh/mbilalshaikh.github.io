@@ -11,6 +11,8 @@ I am currently based in Perth, WA, Australia. I have my roots from Shahdadpur (a
 
 Working on action recognition in multi-modal data using machine learning and computer vision techniques. 
 
+Current students: Henry, Ali, Ghulam Murtaza, Amanullah, Harsimranjeet.
+
 ### Contact me
 
 [gmail](mailto:mbs.techy@gmail.com) - personal   
