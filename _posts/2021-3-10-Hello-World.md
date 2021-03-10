@@ -8,6 +8,8 @@ published: true
  
  
  * avatar needs to be updated.
+ 
+ an example of linking your files to the post is below.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
