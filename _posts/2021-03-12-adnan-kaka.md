@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Friday khutba mufti adnan kakakhail
 
