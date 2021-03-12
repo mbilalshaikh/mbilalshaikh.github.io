@@ -6,6 +6,7 @@
 
 ###2020
 - Ashar's Birth    
+
 ###2019
 
 - Wedding
@@ -24,8 +25,8 @@
 ###2015
 
 - Departent of Information Technology, Faculty of Engineering & Technology, University of Sindh   
-###2014
 
+###2014
 
 ###2013
 
@@ -67,4 +68,3 @@
 ###1989
 
 Birth year
-
