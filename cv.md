@@ -20,7 +20,7 @@
 
 ### 2017
 
-- Master of Science (Computer Science) [Degree](https://drive.google.com/file/d/0BxOPPpbcYMwzcmVCQ2ZXekdjUlU/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0BxOPPpbcYMwzRjN0Yjg4QlAyQ1E/view?usp=sharing)
+- Master of Science (Computer Science) [Degree](https://drive.google.com/file/d/0BxOPPpbcYMwzcmVCQ2ZXekdjUlU/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0BxOPPpbcYMwzRjN0Yjg4QlAyQ1E/view?usp=sharing) [MS Thesis](https://drive.google.com/file/d/1gqutvugQQ_7Iyre9__wrjfyKRx3BFXsi/view?usp=sharing)
 
 ### 2016
 
@@ -33,12 +33,12 @@
 ### 2013
 
 ### 2012
-- Sukkur IBA University [Experience Letter]
+- Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
 
 ### 2011
 
 - Started BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
-- TRG-Tech
+- TRG-Tech [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
 
 
 ### 2006
@@ -47,3 +47,10 @@
 ### 2004
 
 - Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
+
+
+### Docs
+- [Passport](https://drive.google.com/file/d/0BxOPPpbcYMwzZzRjSkI5aHdRdE0/view?usp=sharing) 
+- [GRE](https://drive.google.com/file/d/0BxOPPpbcYMwzQzFRU2xyMTlHcUE/view?usp=sharing)
+- [IELTS](https://drive.google.com/file/d/0BxOPPpbcYMwzT3ExTjBzTU5XRUE/view?usp=sharing)
+- CNIC [front](https://drive.google.com/file/d/0BxOPPpbcYMwzTHppQW1UYmdGYms/view?usp=sharing)[back](https://drive.google.com/file/d/0BxOPPpbcYMwzcXUtT0xjUXR1YUU/view?usp=sharing)
