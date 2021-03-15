@@ -37,22 +37,12 @@
 
 ### 2011
 
-- Ended Bachelor of Science (Computer Science)
+- Started BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
 - TRG-Tech
 
-### 2010
-
-### 2009
-
-### 2008
-
-### 2007
-- Started BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript] (https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing) 
 
 ### 2006
 - Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
-
-### 2005
 
 ### 2004
 
