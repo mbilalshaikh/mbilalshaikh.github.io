@@ -16,7 +16,7 @@
 
 ### 2018
 
-- Ph.D (Computer Engineering) start
+- Ph.D (Computer Engineering) [Proof of Enrolment](https://drive.google.com/file/d/14q1sqSdo0ZTLG1gt4VDIqkY9dHygyC1A/view?usp=sharing)
 
 ### 2017
 
@@ -54,3 +54,12 @@
 - [GRE](https://drive.google.com/file/d/0BxOPPpbcYMwzQzFRU2xyMTlHcUE/view?usp=sharing)
 - [IELTS](https://drive.google.com/file/d/0BxOPPpbcYMwzT3ExTjBzTU5XRUE/view?usp=sharing)
 - CNIC [front](https://drive.google.com/file/d/0BxOPPpbcYMwzTHppQW1UYmdGYms/view?usp=sharing)[back](https://drive.google.com/file/d/0BxOPPpbcYMwzcXUtT0xjUXR1YUU/view?usp=sharing)
+- [ABN](https://drive.google.com/file/d/1h8trV6EuEKs9Oia3xFB5_zdz1rxn4KY8/view?usp=sharing)
+- [ECU Student ID Card](https://drive.google.com/file/d/1H_ho7uKT83nUK9IxtqS-GTeXch7G_zsf/view?usp=sharing) 
+- [VISA](https://drive.google.com/file/d/1ryXxLGYP9Py1du-jFll3avkoeIQO86iR/view?usp=sharing)
+- [Signature](https://drive.google.com/file/d/1GDS9rLsb9g7_ySwbebNdmmWvSruO2h7F/view?usp=sharing)
+
+### Online Courses
+- 2016 [Reasoning, Data Analysis and Writing Specialization from Duke University](https://drive.google.com/file/d/16I4Qvu8oooSm7aJF68YNeTLj7LhfXKdH/view?usp=sharing)
+- 2020 [Effective Listening from Linkedin Learning](https://drive.google.com/file/d/1Y1DGxVffMDMfbtaPUe3h5PsZwutrsoho/view?usp=sharing)
+- 2020 [Joondalup Innovation Challenge](https://drive.google.com/file/d/1AqRbB3zKTvQ9TZLg30opam2cZn6xubMg/view?usp=sharing) 
