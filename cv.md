@@ -1,7 +1,7 @@
 ## CV/Resume
 
 
-[age](https://www.calculatestuff.com/miscellaneous/age-calculator?date_of_birth=1989-01-01&age_at_date=2021-03-12) 
+[age](https://www.calculatestuff.com/miscellaneous/age-calculator?date_of_birth=1989-01-01&age_at_date=2021-03-16) 
 
 ### 2021
 
@@ -38,23 +38,16 @@
 - MOST funded trip to China 
 - Leisure trip to U.A.E
 
-### 2012
-- Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
+- 2012 Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
 
-### 2011
-
-- Started BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
+- 2011 BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
 - TRG-Tech 
 	- [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
     - 
 
+- 2006 Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
 
-### 2006
-- Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
-
-### 2004
-
-- Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
+- 2004 Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
 
 
 ### Docs
