@@ -104,7 +104,9 @@
 - ACM 
 - IET
 - Mozilla Firefox Student Ambassador
-- ECU Harmony Day
+- ECU Harmony Day - 17/3/2021
+	- International Cafe
+    - World Games
 
 ### Projects
 - BS Final Year Project
