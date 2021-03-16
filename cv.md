@@ -13,6 +13,10 @@
 
 - Wedding
 - Proposal Defence
+- Visit to Qatar
+- Visit to Malaysia
+- Visit to Oman
+- Visit to Abu Dhabi, U.A.E
 
 ### 2018
 
@@ -31,6 +35,8 @@
 ### 2014
 
 ### 2013
+- MOST funded trip to China 
+- Leisure trip to U.A.E
 
 ### 2012
 - Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
@@ -38,7 +44,9 @@
 ### 2011
 
 - Started BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
-- TRG-Tech [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
+- TRG-Tech 
+	- [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
+    - 
 
 
 ### 2006
@@ -80,7 +88,15 @@
 - [Medium]
 
 ### Volunteer
-- IEEE
+- IEEE Membership ID : 91090507
+	- Region 10 SYWL Virtual Congress 2020 (19-24 Oct 2020)
+    - Antitrust and Fair Competition Essentials (7 Oct 2020)
+    - Code of Conduct (8 Oct 2020)
+    - Conflicts of Interest
+    - General Data Protection Regulation (GDPR)
+    - Preventing Discrimination and Harrasment 
+    - Anti Bribery and Corruption
+    - Sanctions, Embargoes, Export Controls and Anti-Boycott Laws    
 - ACM 
 - IET
 - Mozilla Firefox
@@ -90,3 +106,11 @@
 - BS Final Year Project
 - MS Thesis
 - PhD Thesis
+
+### Professional 
+- [Source Support](https://drive.google.com/drive/folders/1UZ78Xm94MybnytTL2tQskM5hxswgprf0?usp=sharing)
+	- Customer Service Excellence
+    - Nimble FRU Replacement
+    - HPE Nimble HF-Series
+    - Source Support Way of Service
+    - Case # 00280808: Freemantle Football Stadium - NIC and Controller Replacement
