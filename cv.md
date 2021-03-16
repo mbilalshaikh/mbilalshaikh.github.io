@@ -53,8 +53,9 @@
     	- Online Job Portal - PHP,HTML,JavaScript,CSS,MYSQL
     	- LAN Attendance Manager - Java, Eclipse
     	- Virtual University Project - PHP, CodeIgnitor (MVC)
-- TRG-Tech 
+- Analyst Software Engineer - TRG-Tech (Pvt) Ltd.
 	- [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
+    - Responsibilities: Dealing Business Intelligence Systems, Tools and Methodologies with AI algorithms mapping personality for agent preferences
 
 ### 2006 Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
 
@@ -92,8 +93,12 @@
 - [Medium]
 
 ### Volunteer
-- IEEE Membership ID : 91090507
-	- Region 10 SYWL Virtual Congress 2020 (19-24 Oct 2020)
+- IEEE (Membership ID : 91090507)
+	- Committee Member : IEEE Western Australia Section 2019-2021
+    	- Student Volunteer Award 2020
+    	- Delegate @ Region 10 SYWL Virtual Congress 2020 (19-24 Oct 2020)
+	- Chairperson : IEEE Edith Cowan University Student Branch 2019-2021
+	- Chairperson : IEEE Computer Society NUCES 2010
     - Antitrust and Fair Competition Essentials (7 Oct 2020)
     - Code of Conduct (8 Oct 2020)
     - Conflicts of Interest
@@ -102,8 +107,11 @@
     - Anti Bribery and Corruption
     - Sanctions, Embargoes, Export Controls and Anti-Boycott Laws    
 - ACM 
+	- Ambassador for Pakistan
 - IET
-- Mozilla Firefox Student Ambassador
+	- Member
+- Mozilla Firefox
+	- Student Ambassador
 - ECU Harmony Day - 17/3/2021
 	- International Cafe
     - World Games
@@ -112,10 +120,14 @@
 - BS Final Year Project
 - MS Thesis
 - PhD Thesis
-- UG Supervisions
-- PG Supervisions
+- UG/PG Supervisions
+	- Edith Cowan University - Perth, Australia
+    - FEIT, University of Sindh, Jamshoro
+    - Sukkur IBA University
 
 ### Professional 
+- Governance Council Member
+	- Strategic Training Workshop @ Joondalup Resorts, Perth
 - [Source Support](https://drive.google.com/drive/folders/1UZ78Xm94MybnytTL2tQskM5hxswgprf0?usp=sharing)
 	- Customer Service Excellence
     - Nimble FRU Replacement
@@ -129,3 +141,27 @@
 	- PeaceLook (Android App)
     - CARTAO JOVEM (Windows Phone App) - C#, Xaml, WSDL Web Services
     - ComicTroll (Android App) - Java Android, REST Web Services
+- Trainer
+	- Microsoft Community Trainer
+- Technology Intern
+	- Macromindz (Pvt) Ltd
+
+### Awards
+- Head Software Project Competition at Procom,2011
+- Winner of “Software Project Competition” at Softec 2011 FAST-NUCES,Lahore
+- Trained at Microsoft Catalyst Business and Technical Trainings,2011
+- Winner Software Project Competition at Probrains 2011 , Karachi University
+- Winner of “Software Project Competition” @ COMBAT 2011, PAF KIET, Karachi
+- Top in “Demo Your Project” @ Folio3 Developer’s Day, Karachi 2011
+- Top in Software Modeling and Designing at TechElite,2010, NED,Karachi
+- Top in Genesis Software Quiz at Procom,2010, FAST-NUCES
+- Runner Up in Asia-Pacific IEEE Ethics Competition
+- Selected Student for Nokia Developers Workshop, Karachi 2011
+- Secured position in FAST-NUCES Dean’s List
+
+### Grants & Fundings
+- National ICT R&D Grassroot Funding
+- ECU-HEC HRDI PhD Scholarship 
+- Ministry of IT Undergraduate Scholarship 1.6 million PKR
+- HEC MS Scholarship (Full Tution Fee)
+- Prime Minister Laptop Scheme
