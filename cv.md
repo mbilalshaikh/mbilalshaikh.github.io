@@ -78,6 +78,15 @@
 - 2020 Kaggle [Introduction to Deep Learning](https://drive.google.com/file/d/1EhJWsfKvimw81vfMTpAOi5GER9bm7WvZ/view?usp=sharing)
 - 2020 Kaggle [Computer Vision](https://drive.google.com/file/d/1Zfw0lUxGjvL8IwAJuLhWXObkVOJU8HYj/view?usp=sharing)
 - 2020 Kaggle [Introduction to Machine Learning](https://drive.google.com/file/d/1NjTEk6GK0hKmCteaBzKfem9WKjwVJiUo/view?usp=sharing) 
+- Machine Learning Online Course from Coursera, By Andrew NJ.
+- “The Data Scientist’s Toolbox, Getting and Cleaning Data, R Programming” Four
+Weeks Online Course authorized by John Hopkins University and offered through
+Coursera
+- “Introduction to Data Science “taught by BILL HOWE Ph.D. Dept.: of Computer
+Science, University of Washington, U.S.A offered through Coursera
+- “Online Basics, Google for Education Basics, Online Professionals” authorized by
+Google Web Academy
+
 
 ### Profiles
 - [Facebook](facebook.com/mbshaikh)
@@ -172,3 +181,33 @@
 - Ministry of IT Undergraduate Scholarship 1.6 million PKR
 - HEC MS Scholarship (Full Tution Fee)
 - Prime Minister Laptop Scheme
+
+### Publications
+- Shaikh, Muhammad Bilal, and Abdul Rehman Soomrani. " Optimizing
+Distributed Machine Learning for Large Scale EEG Data Set". International
+Conference On Computing And Mathematical Sciences-ICCMS 2017.
+- Rahim, Sahar, Rizwan Maqsood, and Muhammad Bilal Shaikh. "A Novel
+Energy Management Approach In Smart Grid Challenges And
+Opportunities". 4Th International Conference On Energy Environment And
+Sustainable Development. 2016.
+- Shaikh, Muhammad Bilal, Mehak Marium, and Abdul Rehman Soomrani.
+"Second Eye Of Blind: A Novel Communicatoin System For Visually Impaired
+Smartphone Users". International Conference On Computing And
+Mathematical Sciences-ICCMS 2017.
+- Shaikh, Muhammad Bilal, Sobia Mansoor, and Dil Nawaz. "Personal Software
+Quality Assurance : A Novel Approach For Process Improvement". 2nd
+International Conference On Emerging Trends In Engineering, Management
+And Sciences”. 2016.
+- Syed, Faraz, Muhammad Bilal Shaikh, and Zain Hassan. "Virtual Reality
+Based Meeting System". First International Conference On Industrial
+Engineering And Management Applications (IEMA-2017).
+- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Khurshid, Khurram., Multistage
+Adaptive Filter for ECG Signal Processing accepted in ICMVA’2015 Hong
+Kong, June 22-23,2015
+- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Anwar, Syed Muhammad.,
+Majid, Muhammad, A Novel Adaptive Algorithm for Removal of Power Line
+Interference from ECG Signal, accepted & presented at IMTIC’2015 Jamshoro
+11-13 Feb 2015 ( will be published in proceedings of Springer Journal)
+- Ahmed, Abrar.,Naveed Ur Rehman, Sahito, Attaullah.,Shaikh, Muhammad
+Bilal. An Antenna Design for 4G Terminals accepted & presented at
+ICCET’2014 Khairpur (in proceedings of Sindh University Research Journal)
