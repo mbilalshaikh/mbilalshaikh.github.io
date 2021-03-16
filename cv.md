@@ -41,9 +41,20 @@
 - 2012 Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
 
 - 2011 BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
+	- Final Year Project
+    	- mFusion (Framework for Native Cross-platform Mobile App Development) - C# , Silverlight, Java, REST Web services , WP7 , Android
+	- Semester Projects
+    	- Virtual Maze Game - Turbo C++
+    	- E-News Paper Miner - Dev C++
+    	- Stop Watch – Hardware
+   		- Encrypto-Decrypto - MASM615 (Low-level Language)
+    	- File System Simulator - C#,VS2008
+    	- RegEx to DFA - Java,Netbeans
+    	- Online Job Portal - PHP,HTML,JavaScript,CSS,MYSQL
+    	- LAN Attendance Manager - Java, Eclipse
+    	- Virtual University Project - PHP, CodeIgnitor (MVC)
 - TRG-Tech 
 	- [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
-    - 
 
 - 2006 Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
 
@@ -92,13 +103,15 @@
     - Sanctions, Embargoes, Export Controls and Anti-Boycott Laws    
 - ACM 
 - IET
-- Mozilla Firefox
+- Mozilla Firefox Student Ambassador
 - ECU Harmony Day
 
 ### Projects
 - BS Final Year Project
 - MS Thesis
 - PhD Thesis
+- UG Supervisions
+- PG Supervisions
 
 ### Professional 
 - [Source Support](https://drive.google.com/drive/folders/1UZ78Xm94MybnytTL2tQskM5hxswgprf0?usp=sharing)
@@ -107,3 +120,10 @@
     - HPE Nimble HF-Series
     - Source Support Way of Service
     - Case # 00280808: Freemantle Football Stadium - NIC and Controller Replacement
+- Blogger
+	- Technology Blogger @ techonthego.co.uk 
+    - Technology Review Author @ appsplit.com 
+- Freelance
+	- PeaceLook (Android App)
+    - CARTAO JOVEM (Windows Phone App) - C#, Xaml, WSDL Web Services
+    - ComicTroll (Android App) - Java Android, REST Web Services
