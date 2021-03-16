@@ -68,3 +68,25 @@
 - 2020 Kaggle [Introduction to Machine Learning](https://drive.google.com/file/d/1NjTEk6GK0hKmCteaBzKfem9WKjwVJiUo/view?usp=sharing) 
 
 ### Profiles
+- [Facebook](facebook.com/mbshaikh)
+- [Twitter](twitter.com/bilal_shaikh)
+- [Linkedin](https://www.linkedin.com/in/mbshaikh/)
+- [Kaggler](https://www.kaggle.com/mbilalshaikh)
+- [stackoverflow](https://stackoverflow.com/users/6043982/bilal-shaikh)
+- [Github](https://github.com/mbilalshaikh)
+- [Pinterest]
+- [Slack]
+- [Discord]
+- [Medium]
+
+### Volunteer
+- IEEE
+- ACM 
+- IET
+- Mozilla Firefox
+- ECU Harmony Day
+
+### Projects
+- BS Final Year Project
+- MS Thesis
+- PhD Thesis
