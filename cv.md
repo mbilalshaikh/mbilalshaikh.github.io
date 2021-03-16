@@ -150,6 +150,8 @@
 	- Microsoft Community Trainer 2012
 - Technology Intern
 	- Macromindz (Pvt) Ltd 2010-11
+- Cricket Umpire
+	- [Community Officiating 2019 @ Cricket Australia] (https://drive.google.com/file/d/12KVF3nKIFTq98giIpLQt_8gfMCzjcCh1/view?usp=sharing)
 
 ### Awards
 - Head Software Project Competition at Procom,2011
