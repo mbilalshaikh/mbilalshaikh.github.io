@@ -127,6 +127,12 @@
 ### Professional 
 - Governance Council Member
 	- Strategic Training Workshop @ Joondalup Resorts, Perth
+- Analyst Software Engineer
+	- TRG Tech (Pvt) Ltd
+- Academia
+	- Lecturer @ Dept. of Computer Science, Sukkur IBA University (Jun-12 to Jan-15)
+    - Lecturer @ Dept. of Information Technology, University of Sindh (Jan-15 to Mar-18)
+    - Assistant Professor @ Dept. of Information Technology, University of Sindh (Mar-18 to present)
 - [Source Support](https://drive.google.com/drive/folders/1UZ78Xm94MybnytTL2tQskM5hxswgprf0?usp=sharing)
 	- Customer Service Excellence
     - Nimble FRU Replacement
@@ -141,9 +147,9 @@
     - CARTAO JOVEM (Windows Phone App) - C#, Xaml, WSDL Web Services
     - ComicTroll (Android App) - Java Android, REST Web Services
 - Trainer
-	- Microsoft Community Trainer
+	- Microsoft Community Trainer 2012
 - Technology Intern
-	- Macromindz (Pvt) Ltd
+	- Macromindz (Pvt) Ltd 2010-11
 
 ### Awards
 - Head Software Project Competition at Procom,2011
