@@ -7,7 +7,6 @@ Mobile : +61 480 105 684
 Based in Joondalup, Perth, WA, Australia
 
 
-
 - Tools
 	- (Now) Microsoft Azure, Google Colab, Kaggle Kernels, Python, PyTorch, TensorFlow, Keras and Jupyter Notebooks, PyCharm, Spider
     - (OS) Ubuntu-Linux, Windows, Mac
@@ -77,3 +76,33 @@ Based in Joondalup, Perth, WA, Australia
     - 2015
     - 2014
     - 2013
+    
+### Publications
+- Shaikh, Muhammad Bilal, and Abdul Rehman Soomrani. " Optimizing
+Distributed Machine Learning for Large Scale EEG Data Set". International
+Conference On Computing And Mathematical Sciences-ICCMS 2017.
+- Rahim, Sahar, Rizwan Maqsood, and Muhammad Bilal Shaikh. "A Novel
+Energy Management Approach In Smart Grid Challenges And
+Opportunities". 4Th International Conference On Energy Environment And
+Sustainable Development. 2016.
+- Shaikh, Muhammad Bilal, Mehak Marium, and Abdul Rehman Soomrani.
+"Second Eye Of Blind: A Novel Communicatoin System For Visually Impaired
+Smartphone Users". International Conference On Computing And
+Mathematical Sciences-ICCMS 2017.
+- Shaikh, Muhammad Bilal, Sobia Mansoor, and Dil Nawaz. "Personal Software
+Quality Assurance : A Novel Approach For Process Improvement". 2nd
+International Conference On Emerging Trends In Engineering, Management
+And Sciences”. 2016.
+- Syed, Faraz, Muhammad Bilal Shaikh, and Zain Hassan. "Virtual Reality
+Based Meeting System". First International Conference On Industrial
+Engineering And Management Applications (IEMA-2017).
+- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Khurshid, Khurram., Multistage
+Adaptive Filter for ECG Signal Processing accepted in ICMVA’2015 Hong
+Kong, June 22-23,2015
+- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Anwar, Syed Muhammad.,
+Majid, Muhammad, A Novel Adaptive Algorithm for Removal of Power Line
+Interference from ECG Signal, accepted & presented at IMTIC’2015 Jamshoro
+11-13 Feb 2015 ( will be published in proceedings of Springer Journal)
+- Ahmed, Abrar.,Naveed Ur Rehman, Sahito, Attaullah.,Shaikh, Muhammad
+Bilal. An Antenna Design for 4G Terminals accepted & presented at
+ICCET’2014 Khairpur (in proceedings of Sindh University Research Journal)
