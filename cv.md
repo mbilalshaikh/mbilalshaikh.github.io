@@ -103,8 +103,8 @@ Google Web Academy
 ### Volunteer
 - IEEE (Membership ID : 91090507)
 	- Committee Member : IEEE Western Australia Section 2019-2021
-    	- Student Volunteer Award 2020
-    	- Delegate @ Region 10 SYWL Virtual Congress 2020 (19-24 Oct 2020)
+    		- Student Volunteer Award 2020
+    		- Delegate @ Region 10 SYWL Virtual Congress 2020 (19-24 Oct 2020)
 	- Chairperson : IEEE Edith Cowan University Student Branch 2019-2021
 	- Chairperson : IEEE Computer Society NUCES 2010
     - Antitrust and Fair Competition Essentials (7 Oct 2020)
