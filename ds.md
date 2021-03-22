@@ -66,9 +66,19 @@ Based in Joondalup, Perth, WA, Australia
 	- Secured position in FAST-NUCES Dean’s List
     
     
-- UG/PG Projects Supervised
+- UG/PG Projects Supervision/Co-supervision/Examiner
 	- 2021
-	- 2020	
+	- 2020	with [Assoc. Prof. Alex Rassau](https://www.ecu.edu.au/schools/engineering/staff/profiles/associate-deans/dr-alexander-rassau)
+    		- Implementation of ROS environment as a robotics hub for Nexxis robots
+			- ECU unmanned ground vehicle development
+			- UGV SLAM implementation for autonomous outdoors navigation
+			- ECU unmanned ground vehicle
+			- Nexxis pilot control project
+			- Drone control and autonomy
+			- Pilot control for robotics hub
+			- ECU UGV (Unmanned Ground Vehicle) Project
+			- Developing Robotics hub
+			- Pilot control for robotics hub
 	- 2019
     - 2018
     - 2017
