@@ -1,75 +1,6 @@
 ## Master CV/Resume
 
-[age](https://www.calculatestuff.com/miscellaneous/age-calculator?date_of_birth=1991-12-26&age_at_date=2021-03-16) 
-
-### 2021
-- Lagan Lagi
-
-### 2020
-- Ashar's Birth    
-
-### 2019
-
-- Married
-- Proposal Defence
-- Visit to Qatar
-- Visit to Malaysia
-- Visit to Oman
-- Visit to Abu Dhabi, U.A.E
-
-### 2018
-
-- Ph.D (Computer Engineering) [Proof of Enrolment](https://drive.google.com/file/d/14q1sqSdo0ZTLG1gt4VDIqkY9dHygyC1A/view?usp=sharing)
-
-### 2017
-
-- Master of Science (Computer Science) [Degree](https://drive.google.com/file/d/0BxOPPpbcYMwzcmVCQ2ZXekdjUlU/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0BxOPPpbcYMwzRjN0Yjg4QlAyQ1E/view?usp=sharing) [MS Thesis](https://drive.google.com/file/d/1gqutvugQQ_7Iyre9__wrjfyKRx3BFXsi/view?usp=sharing)
-
-### 2016
-
-### 2015
-
-- Departent of Information Technology, Faculty of Engineering & Technology, University of Sindh   
-
-### 2014
-
-### 2013
-- MOST funded trip to China 
-- Leisure trip to U.A.E
-
-### 2012 Sukkur IBA University [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
-
-### 2011 BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
-	- Final Year Project
-    	- mFusion (Framework for Native Cross-platform Mobile App Development) - C# , Silverlight, Java, REST Web services , WP7 , Android
-	- Semester Projects
-    	- Virtual Maze Game - Turbo C++
-    	- E-News Paper Miner - Dev C++
-    	- Stop Watch – Hardware
-   		- Encrypto-Decrypto - MASM615 (Low-level Language)
-    	- File System Simulator - C#,VS2008
-    	- RegEx to DFA - Java,Netbeans
-    	- Online Job Portal - PHP,HTML,JavaScript,CSS,MYSQL
-    	- LAN Attendance Manager - Java, Eclipse
-    	- Virtual University Project - PHP, CodeIgnitor (MVC)
-- Analyst Software Engineer - TRG-Tech (Pvt) Ltd.
-	- [Experience Letter](https://drive.google.com/file/d/0BxOPPpbcYMwzTU84YnQxSXV6VHM/view?usp=sharing)
-    - Responsibilities: Dealing Business Intelligence Systems, Tools and Methodologies with AI algorithms mapping personality for agent preferences
-
-### 2006 Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
-
-### 2004 Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
-
-
-### Docs
-- [Passport](https://drive.google.com/file/d/0BxOPPpbcYMwzZzRjSkI5aHdRdE0/view?usp=sharing) 
-- [GRE](https://drive.google.com/file/d/0BxOPPpbcYMwzQzFRU2xyMTlHcUE/view?usp=sharing)
-- [IELTS](https://drive.google.com/file/d/0BxOPPpbcYMwzT3ExTjBzTU5XRUE/view?usp=sharing)
-- CNIC [front](https://drive.google.com/file/d/0BxOPPpbcYMwzTHppQW1UYmdGYms/view?usp=sharing)[back](https://drive.google.com/file/d/0BxOPPpbcYMwzcXUtT0xjUXR1YUU/view?usp=sharing)
-- [ABN](https://drive.google.com/file/d/1h8trV6EuEKs9Oia3xFB5_zdz1rxn4KY8/view?usp=sharing)
-- [ECU Student ID Card](https://drive.google.com/file/d/1H_ho7uKT83nUK9IxtqS-GTeXch7G_zsf/view?usp=sharing) 
-- [VISA](https://drive.google.com/file/d/1ryXxLGYP9Py1du-jFll3avkoeIQO86iR/view?usp=sharing)
-- [Signature](https://drive.google.com/file/d/1GDS9rLsb9g7_ySwbebNdmmWvSruO2h7F/view?usp=sharing)
+## Education 
 
 ### Online Courses
 - 2016 Coursera [Reasoning, Data Analysis and Writing Specialization from Duke University](https://drive.google.com/file/d/16I4Qvu8oooSm7aJF68YNeTLj7LhfXKdH/view?usp=sharing)
@@ -86,6 +17,28 @@ Coursera
 Science, University of Washington, U.S.A offered through Coursera
 - “Online Basics, Google for Education Basics, Online Professionals” authorized by
 Google Web Academy
+
+- Ph.D (Computer Engineering) [Proof of Enrolment](https://drive.google.com/file/d/14q1sqSdo0ZTLG1gt4VDIqkY9dHygyC1A/view?usp=sharing)
+
+- Master of Science (Computer Science) [Degree](https://drive.google.com/file/d/0BxOPPpbcYMwzcmVCQ2ZXekdjUlU/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0BxOPPpbcYMwzRjN0Yjg4QlAyQ1E/view?usp=sharing) [MS Thesis](https://drive.google.com/file/d/1gqutvugQQ_7Iyre9__wrjfyKRx3BFXsi/view?usp=sharing)
+
+- BS ( Computer Science) National University of Computer and Emerging Sciences [Degree](https://drive.google.com/file/d/0B8CUXkXgSJnnWmEzZ1p0TzFpWEE/view?usp=sharing) [Transcript](https://drive.google.com/file/d/0B8CUXkXgSJnna3FYOHFScUVCc0E/view?usp=sharing)
+	- Final Year Project
+    		- mFusion (Framework for Native Cross-platform Mobile App Development) - C# , Silverlight, Java, REST Web services , WP7 , Android
+	- Semester Projects
+    		- Virtual Maze Game - Turbo C++
+    		- E-News Paper Miner - Dev C++
+    		- Stop Watch – Hardware
+   			- Encrypto-Decrypto - MASM615 (Low-level Language)
+    		- File System Simulator - C#,VS2008
+    		- RegEx to DFA - Java,Netbeans
+    		- Online Job Portal - PHP,HTML,JavaScript,CSS,MYSQL
+    		- LAN Attendance Manager - Java, Eclipse
+    		- Virtual University Project - PHP, CodeIgnitor (MVC)
+            
+-  Intermediate/HSC/XII [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnWXoxVEJ1cnJ1cVk/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnndjhPVko1S2VJSmc/view?usp=sharing)
+
+-  Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
 
 
 ### Profiles
@@ -137,11 +90,11 @@ Google Web Academy
 - Governance Council Member
 	- Strategic Training Workshop @ Joondalup Resorts, Perth
 - Analyst Software Engineer
-	- TRG Tech (Pvt) Ltd
+	- TRG Tech (Pvt) Ltd (Jun-2011 to Aug-2012)
 - Academia
-	- Lecturer @ Dept. of Computer Science, Sukkur IBA University (Jun-12 to Jan-15)
+	- Assistant Professor @ Dept. of Information Technology, University of Sindh (Mar-18 to present)
     - Lecturer @ Dept. of Information Technology, University of Sindh (Jan-15 to Mar-18)
-    - Assistant Professor @ Dept. of Information Technology, University of Sindh (Mar-18 to present)
+	- Lecturer @ Dept. of Computer Science, Sukkur IBA University (Jun-12 to Jan-15)   
 - [Source Support](https://drive.google.com/drive/folders/1UZ78Xm94MybnytTL2tQskM5hxswgprf0?usp=sharing)
 	- Customer Service Excellence
     - Nimble FRU Replacement
