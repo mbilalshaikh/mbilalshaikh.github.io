@@ -41,6 +41,13 @@ Google Web Academy
 -  Marticulation/SSC/X [Certificate](https://drive.google.com/file/d/0B8CUXkXgSJnnblFjMlVreEN5c2M/view?usp=sharing) [Marksheet](https://drive.google.com/file/d/0B8CUXkXgSJnnSVVzcXl3X3dLZXc/view?usp=sharing) 
 
 
+### Skill
+- Communication
+- Leadership
+- Team Player
+- Problem Solving
+- Presentation
+
 ### Profiles
 - [Facebook](facebook.com/mbshaikh)
 - [Twitter](twitter.com/bilal_shaikh)
