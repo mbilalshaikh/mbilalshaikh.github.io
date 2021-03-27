@@ -6,6 +6,28 @@ Email : mbs.techy@gmail.com
 Mobile : +61 480 105 684    
 Based in Joondalup, Perth, WA, Australia
 
+- Skills required
+	- SQL ( Insights ) 
+    - Dashboarding, Visualization, Tracking, Monitoring ( R, Tableau, Python)
+    - Experimentation ( Hypothesis(a/b) testing, Power Analysis,Metrics/Counter Metrics, Confidence intervals, launch decisions
+    - Machine Learning ( REgression, Classification, Time series forecasting, Feature Selection, Model Evaluation
+    - Engineering ( Building Pipelines, Productionalizing Models
+    - Business Instinct ( Asking right/hard Questions, Exaplaining results, analysis)
+
+- Do 
+	- Build with DS projects, find mentors
+    - Data Anslysts/ Non Traditional background
+    - Skill building via bootcamps, online courses, work on portfolio
+    - Stanford ML Certificate
+    - Start networking with DS 7 prepping for DS innterviews
+    - Use current position and get paried with DS, get mentorship from DS
+    - Business Analyst/ Software Engineeer/ Data Engineer
+    - Portfolio (kaggle), Hiring Managers
+    
+- DS interview ( 4/5 rounds )
+	- Study, interview, Fail, Repeat
+    - Study, interview, Fail, Repeat : notice what was missing.
+    - SQl(Basic Sytnax, Joins, Windows Functions, Growth Accounting), Statistics(StatQuest video channel, online moocs, Khan Academy,Probablity, Combinatorics, Descriptive Stats), Business Case(Metric Drop Investigations, Product Launch Decision Making), Python(Pandas, numpy, scikitlearn, seaborn)/R, Experimentation(choosing metircs/counter metrics/p-value/confidence intervals), Behavioral (Strong communication, empathy, leadership & influence)
 
 - Tools
 	- (Now) Microsoft Azure, Google Colab, Kaggle Kernels, Python, PyTorch, TensorFlow, Keras and Jupyter Notebooks, PyCharm, Spider
