@@ -1,13 +1,22 @@
 ## Data Scientist, Data Engineer, Data Analyst
 
+- CV Sections, Clear Concise Clean
+	- Education
+    - Work Experience
+	- Skills
+    - Extra curricular activities
+    - Bullets, no typos, 1-2 page versions, maximum two colors
+    - key info in first five words of sentence
+    - Soft Skills ( 90% coding, communication related skills)
+    - Basic, Advance, Expert ( create library ) 
+    - quality not quantity, nice mature project with advance conncepts
+    - Practical and Analytical challenges
+
 - Bio
 Name : Muhammad Bilal Shaikh   
 Email : mbs.techy@gmail.com    
 Mobile : +61 480 105 684    
 Based in Joondalup, Perth, WA, Australia
-
-- Tableau
-	- COVID, Netflix, Flights https://public.tableau.com/profile/mbs7754#!/
 
 - Skills required
 	- SQL ( Insights ) 
