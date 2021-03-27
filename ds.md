@@ -6,6 +6,9 @@ Email : mbs.techy@gmail.com
 Mobile : +61 480 105 684    
 Based in Joondalup, Perth, WA, Australia
 
+- Tableau
+	- COVID, Netflix, Flights https://public.tableau.com/profile/mbs7754#!/
+
 - Skills required
 	- SQL ( Insights ) 
     - Dashboarding, Visualization, Tracking, Monitoring ( R, Tableau, Python)
