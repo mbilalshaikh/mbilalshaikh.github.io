@@ -142,6 +142,10 @@ Google Web Academy
 - HEC MS Scholarship (Full Tution Fee)
 - Prime Minister Laptop Scheme
 
+### Research Tools
+- Overleaf, LateX
+- EndNote, JabRef
+
 ### Publications
 - Shaikh, Muhammad Bilal, and Abdul Rehman Soomrani. " Optimizing
 Distributed Machine Learning for Large Scale EEG Data Set". International
