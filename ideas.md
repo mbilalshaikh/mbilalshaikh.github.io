@@ -1,3 +1,3 @@
 ## ideas
 
--	academic article writing
+-	academic article writing about everything you study
