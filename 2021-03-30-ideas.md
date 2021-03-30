@@ -1,0 +1,3 @@
+## ideas
+
+-	academic article writing
