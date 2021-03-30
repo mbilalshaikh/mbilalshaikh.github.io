@@ -83,5 +83,7 @@
 
 ## Azure 
 -	[Azure Data Scientist Associate DP-100] (https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/) 
--	[Azure AI Engineer Associate AI-102] (https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/) 
+-	[Azure AI Engineer Associate AI-102] (https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/)
 
+## Oxfordmlschool
+-	https://www.oxfordml.school/
