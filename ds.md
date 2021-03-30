@@ -131,3 +131,7 @@ Based in Joondalup, Perth, WA, Australia
 	- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Khurshid, Khurram., Multistage Adaptive Filter for ECG Signal Processing accepted in ICMVA’2015 Hong Kong, June 22-23,2015
 	- Shaikh, Muhammad Bilal., Qureshi, Rizwan., Anwar, Syed Muhammad., Majid, Muhammad, A Novel Adaptive Algorithm for Removal of Power Line Interference from ECG Signal, accepted & presented at IMTIC’2015 Jamshoro 11-13 Feb 2015 ( will be published in proceedings of Springer Journal)
 	- Ahmed, Abrar.,Naveed Ur Rehman, Sahito, Attaullah.,Shaikh, Muhammad Bilal. An Antenna Design for 4G Terminals accepted & presented at ICCET’2014 Khairpur (in proceedings of Sindh University Research Journal)
+    
+    
+ -	PwC job description (30/3/2021) [PDF](https://github.com/mbilalshaikh/mbilalshaikh.github.io/blob/master/assets/Data%20Analyst_Data%20Scientist%20-%20Manager%20_%20PwC%20Australia%20_%20LinkedIn.pdf)
+ 	
