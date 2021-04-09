@@ -42,7 +42,7 @@ Based in Joondalup, Perth, WA, Australia
     - SQl(Basic Sytnax, Joins, Windows Functions, Growth Accounting), Statistics(StatQuest video channel, online moocs, Khan Academy,Probablity, Combinatorics, Descriptive Stats), Business Case(Metric Drop Investigations, Product Launch Decision Making), Python(Pandas, numpy, scikitlearn, seaborn)/R, Experimentation(choosing metircs/counter metrics/p-value/confidence intervals), Behavioral (Strong communication, empathy, leadership & influence)
 
 - Tools
-	- (Now) Microsoft Azure, Google Colab, Kaggle Kernels, Python, PyTorch, TensorFlow, Keras and Jupyter Notebooks, PyCharm, Spider
+	- (Now) Tableau, Google Data Studio, Microsoft Azure, Google Colab, Kaggle Kernels, Python, PyTorch, TensorFlow, Keras and Jupyter Notebooks, PyCharm, Spider
     - (OS) Ubuntu-Linux, Windows, Mac
     - (Previously) C# , Silverlight, Java, REST Web services , WP7 , Android, MASM615, Java, Eclipse, PHP, CodeIgnitor (MVC)
 
@@ -134,4 +134,3 @@ Based in Joondalup, Perth, WA, Australia
     
     
  -	PwC job description (30/3/2021) [PDF](https://github.com/mbilalshaikh/mbilalshaikh.github.io/blob/master/assets/Data%20Analyst_Data%20Scientist%20-%20Manager%20_%20PwC%20Australia%20_%20LinkedIn.pdf)
- 	
