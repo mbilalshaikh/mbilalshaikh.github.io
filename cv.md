@@ -142,9 +142,14 @@ Google Web Academy
 - HEC MS Scholarship (Full Tution Fee)
 - Prime Minister Laptop Scheme
 
-### Research Tools
+### Research
 - Overleaf, LateX
 - EndNote, JabRef
+
+## TPC / Reviewer
+- Indonesian Journal of Electrical Engineering and Computer Science - Q3
+- IEEE Access
+- ACM Computing Survey
 
 ### Publications
 - Shaikh, Muhammad Bilal, and Abdul Rehman Soomrani. " Optimizing
