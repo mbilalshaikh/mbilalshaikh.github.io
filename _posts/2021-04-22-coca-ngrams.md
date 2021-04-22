@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Writing english text using Coca and N-Grams
 
@@ -13,5 +13,3 @@ Coca ( Corpus of Contemporary American English) which is an online tool and prov
 Ngram a tool by Google Books is an excellent viewer for trends in english writing. You can select your criteria for duration over the period of time.
 
 Thanks for your time, See You!
-
-
