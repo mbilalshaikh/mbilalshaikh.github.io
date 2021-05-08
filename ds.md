@@ -1,5 +1,12 @@
 ## Data Scientist, Data Engineer, Data Analyst
 
+- MySecurityMedia
+	- Python web scrapping
+    - ActiveCampaign CRM python REST API v3
+    - Pandas, CSV, EXCEL
+    - AWS/Google App Engine/Azure/IBM, python service, schedulling, reporting api, emailing
+    - visualization
+
 - CV Sections, Clear Concise Clean
 	- Education
     - Work Experience
@@ -11,12 +18,6 @@
     - Basic, Advance, Expert ( create library ) 
     - quality not quantity, nice mature project with advance conncepts
     - Practical and Analytical challenges
-
-- Bio
-Name : Muhammad Bilal Shaikh   
-Email : mbs.techy@gmail.com    
-Mobile : +61 480 105 684    
-Based in Joondalup, Perth, WA, Australia
 
 - Skills required
 	- SQL ( Insights ) 
